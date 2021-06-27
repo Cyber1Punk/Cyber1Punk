@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cyber1Punk
+- 👀 I’m interested in Python, Cyber security engineering, Cyber security analysis, Ethical hacking, Stock trading, Stock investing
+- 🌱 I’m currently learning Advanced Python, Stock trading, Stock investing
+- 📫 How to reach me through my Gmail - cyber.guard.work@gmail.com
