@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyber1Punk
-- 👀 I’m interested in Programming, Game Hacking, Swing Trading, Investing
-- 🌱 I’m currently learning Game Hacking (Making scripts using CE, and making my own game hack code)
+- 👋 Hi, I’m Cyber1Punk.
+- 👀 I’m interested in Programming and Cybersecurity.
+- 🌱 I’m currently continuing to learn programming (C++ and C#) and trying to learn Cybersecurity (Ethical Hacking and Pen Testing).
 - 📫 Reach me through my Gmail - cyber.guard.work@gmail.com
